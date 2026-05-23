@@ -1,0 +1,19 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: rgb(168, 149, 6);
+    margin: 20px;
+
+}
+.box-2{
+    width: 100px;
+    height: 100px;
+    background: #f09;
+}
+
+.box-3
+{
+    width: 100px;
+    height: 100px;
+    background: #009;
+}
