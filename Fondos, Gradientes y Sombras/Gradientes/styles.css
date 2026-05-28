@@ -1,9 +1,12 @@
 body{
-    background-color: black;
+    background-color: white;
     margin: 0;
 }
 .box {
     width: 400px;
     height: 400px;
-    background: linear-gradient(red,green)
+    background: linear-gradient(red,green);
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: -20px 40 px 40px 10px black;
 }
